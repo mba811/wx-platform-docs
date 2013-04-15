@@ -21,5 +21,5 @@
 
 ###模板引擎
 * 系统使用FreeMarker模板引擎 <a href="http://sourceforge.net/projects/freemarker/" target="_blank">FreeMarker</a>
-* 中文手册: <a target="_blank" href="FreeMarker-Manual-Simplified-Chinese 2.3.18.pdf">下载</a>
+* 中文手册: <a target="_blank" href="FreeMarker-Manual-Simplified-Chinese 2.3.18.pdf?raw=true">下载</a>
 
