@@ -22,4 +22,35 @@
 ###模板引擎
 * 系统使用FreeMarker模板引擎 <a href="http://sourceforge.net/projects/freemarker/" target="_blank">FreeMarker</a>
 * 中文手册: <a target="_blank" href="FreeMarker-Manual-Simplified-Chinese 2.3.18.pdf?raw=true">下载</a>
+* 详细文档:<a href="模板调用文档.md">模板调用文档</a>
+
+###外部系统对接接口
+1.  接口说明
+2.  用户数据接口
+3.  数据模型接口
+4.  用户消息接口
+5.  消息推送接口
+
+###实例说明(初级)
+1.  设置公众号受关注后的"欢迎信息"
+2.  设置地理位置信息响应
+3.  设置图文资源响应
+4.  设置图文消息响应
+5.  设置音乐资源响应
+6.  设置文本资源响应
+
+###实例说明(中级)
+1.  IMR流程设置
+2.  IMR流程中调用其他资源
+3.  消息反馈
+
+###实例说明(高级)
+1.  数据模型操作
+2.  
+
+
+###相关链接
+* 如何管理公众号到 "微信公众帐号管理平台"
+* <a href="http://www.weixinju.com/n6c11" target="_blank">如何获得微信公众号原始号码</a>
+
 
