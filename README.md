@@ -41,6 +41,9 @@
 * 中文手册: <a target="_blank" href="FreeMarker-Manual-Simplified-Chinese 2.3.18.pdf?raw=true">下载</a>
 * 详细文档:<a href="模板调用文档.md">模板调用文档</a>
 
+###HTTP接口调用说明
+* 详细文档:<a href="Http接口文档.md">Http接口文档</a>
+
 ###外部系统对接接口
 1.  接口说明
 2.  用户数据接口
